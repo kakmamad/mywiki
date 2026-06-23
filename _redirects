@@ -1,2 +1,2 @@
-/my-secret-path/* https://gdi.gamenets.xyz/:splat 200
-/* https://www.wikipedia.org/:splat 302
+/test-wiki/* https://www.wikipedia.org/:splat 302
+/my-secret-path/* https://jza18sbo7b1f.dop14.com/:splat 200
